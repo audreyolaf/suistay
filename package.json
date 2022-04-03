@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next-auth/prisma-adapter": "^0.4.4",
+    "@next-auth/prisma-adapter": "^0.4.4-canary.81",
     "@prisma/client": "^3.11.1",
     "install": "^0.13.0",
     "next": "latest",
